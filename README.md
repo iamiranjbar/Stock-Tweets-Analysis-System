@@ -1,5 +1,9 @@
 # BigData Spring2021 Final Project
 
+This is final project of Big Data Analysis course at the University of Tehran.
+
+We developed a complete system for real time analysis of Iran's stock related tweets.
+
 ## Getting Started
 
 Use step 1 and 2 from this guide https://kafka.apache.org/quickstart to start zookeeper and kafka.
