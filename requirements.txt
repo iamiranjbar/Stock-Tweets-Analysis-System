@@ -1,0 +1,8 @@
+requests
+kafka-python
+redis
+jdatetime
+pymongo
+elasticsearch
+flask
+clickhouse-driver
